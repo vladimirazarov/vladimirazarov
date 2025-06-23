@@ -25,5 +25,5 @@ Software Engineer / Tester with a Bachelor's Degree in Computer Science, seeking
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/vladimir-azarov-179057234  
-- Email: <your.email@example.com>
+- Email: azarov.swe@gmail.com
 
