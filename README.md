@@ -3,7 +3,7 @@
 <h1 align="center">Vladimir Azarov</h1>
 
 <p align="center">
-Software Engineer / Tester with a Bachelor's Degree in Computer Science, seeking entry-level opportunities
+Junior Software & Test Engineer | C/C++ · Python · TDD | ISTQB Certified | CS BSc, VUT FIT Brno
 </p>
 
 ---
