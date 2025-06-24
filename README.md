@@ -11,8 +11,6 @@ Software Engineer / Tester with a Bachelor's Degree in Computer Science, seeking
 ## Open to Work
 - Target roles: Junior Software Engineer · Junior Software Developer · Junior Programmer · Junior Test Engineer · Junior Tester  
 - Availability: Immediate  
-- Work modes: On-site · Hybrid · Remote  
-- Preferred locations: Prague · Brno · Karlovy Vary · Plzeň · Remote (worldwide)
 
 ## Technical Skills
 | Area | Stack |
