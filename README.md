@@ -49,12 +49,6 @@ A collection of audio effect plugins built with **C++** and the **JUCE Framework
 
 ---
 
-### 🔭 Currently working on
-* Deepening knowledge of **SIMD intrinsics** for audio optimization.
-* Exploring **Physical Modeling Synthesis**.
-
----
-
 <p align="center" style="font-size: 0.8em; color: #666;">
   <em>Open to C++ / DSP Engineering roles. Located in Prague, Czechia.</em>
 </p>
