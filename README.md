@@ -7,7 +7,7 @@
 <p align="center">
   Software Engineer focused on building high-performance systems, efficient algorithms, and robust software architecture. 
   <br>
-  I combine a strong mathematical background in <strong>Graph Theory & Linear Algebra</strong> with experience in low-level optimization and cross-platform development.
+  I combine a strong mathematical background in <strong>Graph Theory & Discrete Mathematics</strong> with experience in low-level optimization and cross-platform development.
 </p>
 
 <p align="center">
@@ -35,16 +35,16 @@
 ### 🚀 Key Projects
 
 #### 🛠️ [High-Performance C++ Applications](https://github.com/vladimirazarov)
-A series of projects focused on real-time processing and cross-platform GUI development.
+A series of projects focused on real-time processing, efficient data handling, and cross-platform GUI development.
 * **Architecture:** Implementation of lock-free data structures and efficient circular buffers.
-* **Optimization:** Zero-allocation processing loops and specialized mathematical algorithms.
+* **Optimization:** Zero-allocation processing loops and specialized algorithmic solutions.
 * **Features:** Custom UI components, thread-safe state management, and comprehensive unit testing.
 
 #### 🧬 [Automated Code Generation System](https://github.com/vladimirazarov)
 *Bachelor's Thesis (Grade: A, Nominated for Dean's Award)*
 * Developed a Python-based engine that generates syntactically and semantically correct C code.
-* Leveraged **Control Flow Graphs (CFG)** and **SMT Solvers (Z3)** to satisfy complex reachability constraints.
-* Focus on formal methods, compiler theory, and automated software verification.
+* Leveraged **Control Flow Graphs (CFG)** and **Discrete Math** principles to satisfy complex reachability constraints.
+* Focus on formal methods, compiler theory, and automated software verification using **SMT Solvers**.
 
 ---
 
