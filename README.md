@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vladimir Azarov 👋</h1>
+<h1 align="center">Vladimir Azarov</h1>
 
 <p align="center">
   <strong>Software Engineer | C++ Developer | VUT FIT Graduate</strong>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -32,15 +32,15 @@
 
 ---
 
-### 🚀 Key Project
+### Projects
 
-#### 🛠️ [Real-Time C++ Processing Engine](https://github.com/vladimirazarov/tvuj-repozitar)
+#### [Real-Time C++ Processing Engine](https://github.com/vladimirazarov/tvuj-repozitar)
 A modular framework for real-time data handling, signal processing, and cross-platform UI.
 * **Core:** Implementation of lock-free data structures (Ring Buffers) for thread-safe communication.
 * **Performance:** Optimized zero-allocation processing loops using C++17 features.
 * **UI:** Custom component architecture managed by thread-safe state (JUCE).
 
-#### 🧬 [Automated Code Generation System](https://github.com/vladimirazarov/flowforge)
+#### [Automated Code Generation System](https://github.com/vladimirazarov/flowforge)
 *Bachelor's Thesis (Grade: A, Nominated for Dean's Award)*
 * Developed a Python-based engine that generates syntactically and semantically correct C code.
 * Leveraged **Control Flow Graphs (CFG)** and **Discrete Math** principles to satisfy complex reachability constraints.
