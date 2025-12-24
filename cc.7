@@ -3,41 +3,64 @@
 .Os Fedora
 .Sh NAME
 .Nm cc
-.Nd Conventional Commits cheat sheet
+.Nd Conventional Commits & Description Guidelines
 .Sh SYNOPSIS
 .Nm <type> Ns Op (scope) Ns Op ! :
 .Ar <description>
 .Sh DESCRIPTION
-A lightweight convention for commit messages to create a machine-readable history.
+A convention for commit messages to create a machine-readable history.
 .Sh TYPES
 .Bl -tag -width "refactor" -compact
 .It Ic feat
-New feature (SemVer: MINOR)
+New feature (MINOR)
 .It Ic fix
-Bug fix (SemVer: PATCH)
+Bug fix (PATCH)
 .It Ic perf
 Performance improvement
+.It Ic refactor
+Code change (neither fix nor feature)
 .It Ic docs
 Documentation only
 .It Ic style
 Formatting, missing semi-colons, etc.
-.It Ic refactor
-Code change (neither fix nor feature)
 .It Ic build
-Build system or dependencies (CMake, etc.)
+Build system/dependencies
 .It Ic ci
-CI configuration (GitHub Actions, etc.)
+CI configuration
 .It Ic test
-Adding or fixing tests
+Adding/fixing tests
 .It Ic chore
 Maintenance tasks
 .El
+.Sh DESCRIPTION GUIDELINES
+Follow these rules for the 
+.Ar <description>
+field to ensure precision:
+.Bl -bullet -compact
+.It
+.Sy Imperative Mood :
+Use "add" instead of "added" or "adds". (Matches git's own generated messages).
+.It
+.Sy Case :
+Start with lowercase (unless starting with a proper noun).
+.It
+.Sy Length :
+Keep under 50 characters.
+.It
+.Sy Punctuation :
+Do not end with a period.
+.It
+.Sy Content :
+Summarize
+.Em what
+the change does, not
+.Em how
+it was done.
+.El
 .Sh BREAKING CHANGES
-Indicated by a
+Indicated by
 .Ic !
-after the type/scope or
-.Ic BREAKING CHANGE:
-in the footer. Triggers a
+after type/scope. Triggers a
 .Ic MAJOR
 version bump.
 .Sh EXAMPLES
