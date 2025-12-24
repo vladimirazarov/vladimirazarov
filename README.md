@@ -31,23 +31,3 @@
 | **Engineering** | Multi-threading, Memory Management, Performance Profiling, OOP & Design Patterns |
 
 ---
-
-### Projects
-
-#### [Real-Time C++ Processing Engine](https://github.com/vladimirazarov/tvuj-repozitar)
-A modular framework for real-time data handling, signal processing, and cross-platform UI.
-* **Core:** Implementation of lock-free data structures (Ring Buffers) for thread-safe communication.
-* **Performance:** Optimized zero-allocation processing loops using C++17 features.
-* **UI:** Custom component architecture managed by thread-safe state (JUCE).
-
-#### [Automated Code Generation System](https://github.com/vladimirazarov/flowforge)
-*Bachelor's Thesis (Grade: A, Nominated for Dean's Award)*
-* Developed a Python-based engine that generates syntactically and semantically correct C code.
-* Leveraged **Control Flow Graphs (CFG)** and **Discrete Math** principles to satisfy complex reachability constraints.
-* Focus on formal methods, compiler theory, and automated software verification using **SMT Solvers**.
-
----
-
-<p align="center" style="font-size: 0.8em; color: #666;">
-  <em>Software Engineer based in Prague, Czechia. Passionate about solving complex technical challenges.</em>
-</p>
