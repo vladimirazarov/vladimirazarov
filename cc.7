@@ -1,0 +1,47 @@
+.Dd December 2025
+.Dt CC 7
+.Os Fedora
+.Sh NAME
+.Nm cc
+.Nd Conventional Commits cheat sheet
+.Sh SYNOPSIS
+.Nm <type> Ns Op (scope) Ns Op ! :
+.Ar <description>
+.Sh DESCRIPTION
+A lightweight convention for commit messages to create a machine-readable history.
+.Sh TYPES
+.Bl -tag -width "refactor" -compact
+.It Ic feat
+New feature (SemVer: MINOR)
+.It Ic fix
+Bug fix (SemVer: PATCH)
+.It Ic perf
+Performance improvement
+.It Ic docs
+Documentation only
+.It Ic style
+Formatting, missing semi-colons, etc.
+.It Ic refactor
+Code change (neither fix nor feature)
+.It Ic build
+Build system or dependencies (CMake, etc.)
+.It Ic ci
+CI configuration (GitHub Actions, etc.)
+.It Ic test
+Adding or fixing tests
+.It Ic chore
+Maintenance tasks
+.El
+.Sh BREAKING CHANGES
+Indicated by a
+.Ic !
+after the type/scope or
+.Ic BREAKING CHANGE:
+in the footer. Triggers a
+.Ic MAJOR
+version bump.
+.Sh EXAMPLES
+.Dl fix(parser): resolve overflow in hex reader
+.Dl feat(api)!: remove deprecated endpoints
+.Sh SEE ALSO
+.Lk https://www.conventionalcommits.org
