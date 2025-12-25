@@ -4,7 +4,10 @@
 ## General
 [CMake](https://cmake.org/cmake/help/latest/guide/tutorial/Getting%20Started%20with%20CMake.html) - manage build process 
 
-[C++](cppreference.com) - write a program logic
+[C++](https://cppreference.com) - write a program logic
+
+[C++ learn](https://www.learncpp.com/) - learn cpp
+
 
 [Python](https://docs.python.org/3.14/) - prototype, play around, test, vizualize
 
