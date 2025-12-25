@@ -37,3 +37,7 @@
 
 ## GameDev
 [raylib](https://www.raylib.com/) - make games
+
+## Music
+[FoxDot](https://github.com/Qirky/FoxDot/tree/master) - python livecoding
+[SuperCollider](https://supercollider.github.io/) - realtime audio engine
