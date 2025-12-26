@@ -41,3 +41,4 @@
 ## Music
 [FoxDot](https://github.com/Qirky/FoxDot/tree/master) - python livecoding
 [SuperCollider](https://supercollider.github.io/) - realtime audio engine
+[Strudel](https://strudel.cc/learn/pwa/) - live coding audio (webapp)
