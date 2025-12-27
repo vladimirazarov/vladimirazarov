@@ -29,5 +29,3 @@
 | **Frameworks & Libs** | STL, Boost, JUCE, GoogleTest, Z3 SMT Solver |
 | **Tools & DevOps** | ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | **Engineering** | Multi-threading, Memory Management, Performance Profiling, OOP & Design Patterns |
-
-[Sources](SOURCES.md)
