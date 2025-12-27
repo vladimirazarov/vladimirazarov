@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/tempobj.dir/link.d CMakeFiles/tempobj.dir/main.cpp.o -o tempobj

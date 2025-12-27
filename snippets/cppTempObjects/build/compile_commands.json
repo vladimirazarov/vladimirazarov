@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/maime/workspace/dev/learn/cppTempObjects/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tempobj.dir/main.cpp.o -c /home/maime/workspace/dev/learn/cppTempObjects/main.cpp",
+  "file": "/home/maime/workspace/dev/learn/cppTempObjects/main.cpp",
+  "output": "CMakeFiles/tempobj.dir/main.cpp.o"
+}
+]

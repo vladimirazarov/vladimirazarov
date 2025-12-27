@@ -1,0 +1,3 @@
+/home/maime/workspace/dev/learn/cppTempObjects/CMakeFiles/tempobj.dir
+/home/maime/workspace/dev/learn/cppTempObjects/CMakeFiles/edit_cache.dir
+/home/maime/workspace/dev/learn/cppTempObjects/CMakeFiles/rebuild_cache.dir
