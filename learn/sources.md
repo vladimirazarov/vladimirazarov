@@ -5,6 +5,7 @@
 * [Docker](https://docs.docker.com/get-started/introduction/) - delivery
 * [GitHubActions](https://docs.github.com/en/actions/get-started/quickstart) - build, test and deploy
 * [Python](https://docs.python.org/3.14/) - prototype, play around, test, vizualize
+* [VSCode](https://code.visualstudio.com/docs) - code editor
 ---
 
 ## Consistency
