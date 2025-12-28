@@ -5,7 +5,7 @@
 * [Docker](https://docs.docker.com/get-started/introduction/) - delivery
 * [GitHubActions](https://docs.github.com/en/actions/get-started/quickstart) - build, test and deploy
 * [Python](https://docs.python.org/3.14/) - prototype, play around, test, vizualize
-* [VSCode](https://code.visualstudio.com/docs) - code editor
+* [VSCode](https://code.visualstudio.com/docs) - my main IDE 
 ---
 
 ## Consistency
@@ -16,6 +16,7 @@
 
 ## Tools
 * [LazyVim](https://www.lazyvim.org/) - tui IDE
+* [Glow](https://github.com/charmbracelet/glow) - render md on the CLI
 * [Ohmyzsh](https://ohmyz.sh/) - zshconfig management
 * [GitignoreDoc](https://git-scm.com/docs/gitignore) - learn about gitignore
 * [GitignoreGenerator](https://www.toptal.com/developers/gitignore) - generate me a specific gitignore
@@ -31,4 +32,8 @@
 * [JUCE](https://docs.juce.com/master/index.html) - make audio plugins
 * [Strudel](https://strudel.cc/learn/pwa/) - live coding audio (webapp), use neovim
 * [raylib](https://www.raylib.com/) - make games
+* [bitwg](https://www.bitwig.com/) - my main daw
+* [wine](https://www.winehq.org/about) - run win apps on posix
+* [yabridge](https://github.com/robbert-vdh/yabridge) - win audio plugins on linux
+
 ---
