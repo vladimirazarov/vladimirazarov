@@ -30,7 +30,8 @@
 ---
 
 ## Hobbies
-* [JUCE](https://docs.juce.com/master/index.html) - make audio plugins
+* [JUCE](https://github.com/juce-framework/JUCE) - make audio plugins
+* [JUCE CMake template](https://github.com/sudara/cmake-includes)
 * [Strudel](https://strudel.cc/learn/pwa/) - live coding audio (webapp), use neovim
 * [raylib](https://www.raylib.com/) - make games
 * [bitwg](https://www.bitwig.com/) - my main daw
