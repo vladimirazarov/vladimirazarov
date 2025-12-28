@@ -6,6 +6,7 @@
 * [GitHubActions](https://docs.github.com/en/actions/get-started/quickstart) - build, test and deploy
 * [Python](https://docs.python.org/3.14/) - prototype, play around, test, vizualize
 * [VSCode](https://code.visualstudio.com/docs) - my main IDE 
+* [Fedora](https://www.fedoraproject.org/) - my main linux distro
 ---
 
 ## Consistency
