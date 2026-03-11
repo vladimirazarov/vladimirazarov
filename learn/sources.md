@@ -31,7 +31,7 @@
 
 ## Hobbies
 * [JUCE](https://github.com/juce-framework/JUCE) - make audio plugins
-* [PumpeJuce](https://github.com/sudara/pamplejuce)
+* [PampleJuce](https://github.com/sudara/pamplejuce)
 * [Strudel](https://strudel.cc/learn/pwa/) - live coding audio (webapp), use neovim
 * [raylib](https://www.raylib.com/) - make games
 * [bitwg](https://www.bitwig.com/) - my main daw
